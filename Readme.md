@@ -1,0 +1,1 @@
+#This is a Program for automatic AI voice decoding in real time using fakeSmart API.
